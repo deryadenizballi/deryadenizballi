@@ -23,9 +23,7 @@ And I work as a freelancer or volunteer in projects where I can improve myself.
 
 
 
-## Job
 
-I'm working as a Front-end Developer at [Daynex](https://www.daynex.com.tr/) 
 
 <!-- 
 ## Know / Using 🧠
