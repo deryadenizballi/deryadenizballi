@@ -36,4 +36,5 @@ I'd like to get in touch with the following topics
   - UI Design
   - HTML, CSS, JavaScript
   - Clean Code
+  
 
