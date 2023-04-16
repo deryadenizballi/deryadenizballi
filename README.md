@@ -34,7 +34,7 @@ You can find and get touch with me on these accounts!
 I'd like to get in touch with the following topics
 
   - UI Design
-  - HTML, CSS, JavaScript
+  - HTML, CSS, JavaScript, React
   - Clean Code
   
   
