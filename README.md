@@ -26,7 +26,7 @@ You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/DERYA-FOLLOW%20ON%20LINKEDIN-blue)](https://www.linkedin.com/in/derya-ball%C4%B1-21480015b/)
 [![behance Badge](https://img.shields.io/badge/DERYA-FOLLOW%20ON%20BEHANCE-green)](https://www.behance.net/deryaball)
-[![MEDIUM Badge](https://img.shields.io/badge/DERYA-FOLLOW%20ON%20MEDIUM-orange)](https://deryaballi.medium.com/](https://deryaballi.medium.com/))
+[![MEDIUM Badge](https://img.shields.io/badge/DERYA-FOLLOW%20ON%20MEDIUM-orange)]([https://deryaballi.medium.com/](https://deryaballi.medium.com/))
 [![behance Badge](https://img.shields.io/badge/DERYA-FOLLOW%20ON%20WEBS%C4%B0TE-brightgreen)](https://deryadenizballi.netlify.app/)
 
 ## Ask me about 💬
